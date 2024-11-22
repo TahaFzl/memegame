@@ -1,0 +1,18 @@
+{
+    "rooms": [
+        {
+            "room_code": 7713,
+            "creator_name": "Taha",
+            "members": [
+                "Taha"
+            ]
+        },
+        {
+            "room_code": 7609,
+            "creator_name": "Taha",
+            "members": [
+                "Taha"
+            ]
+        }
+    ]
+}
